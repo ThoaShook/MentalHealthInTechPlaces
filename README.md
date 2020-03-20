@@ -23,9 +23,9 @@ Early identification and intervention of mental health issues will have signific
   - Developed conclusions and recommendations
 * Data Distribution, supporting details of four models using in analysis can be found in project5.ipynb
 * Upload Mental Health DataFrame:
-![](images/Screen Shot 2020-03-20 at 11.08.34 AM.png)
+
 * Relationships between target variable - seeking treatment - vs independent variables
-![](images/HeatMap.png = 120 x 120)
+![](images/HeatMap.png){:height="50%" width="50%"}
 * Age distribution among survey-employees
 ![](imges/age_distribution.png)
 * Gender that is most likely seeking treatment.
