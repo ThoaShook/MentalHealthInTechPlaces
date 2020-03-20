@@ -25,11 +25,11 @@ Early identification and intervention of mental health issues will have signific
 * Upload Mental Health DataFrame:
 
 * Relationships between target variable - seeking treatment - vs independent variables
-![](images/HeatMap.png){:height="50%" width="50%"}
+![](images/HeatMap.png){:height="30%" width="30%"}
 * Age distribution among survey-employees
 ![](imges/age_distribution.png)
 * Gender that is most likely seeking treatment.
-![](images/Gender_vs_treatment.png)
+![](images/Gender_vs_treatment.png){:height="30%" width="30%"}
 * Conclusions:
   - Based on our models, the most important indicators for a mentally healthy and stable workforce are:
       + Family history
