@@ -28,6 +28,8 @@ Early identification and intervention of mental health issues will have signific
 ![](images/HeatMap.png)
 * Age distribution among survey-employees
 ![](imges/age_distribution.png)
+* Gender that is most likely seeking treatment.
+![](images/Gender_vs_treatment.png)
 * Conclusions:
   - Based on our models, the most important indicators for a mentally healthy and stable workforce are:
       + Family history
