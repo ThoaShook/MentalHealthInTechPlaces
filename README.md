@@ -25,7 +25,7 @@ Early identification and intervention of mental health issues will have signific
 * Upload Mental Health DataFrame:
 
 * Relationships between target variable - seeking treatment - vs independent variables
-![](images/HeatMap.png){:height="400px" width="100px"}
+![](images/HeatMap.png | width = '100px')
 * Age distribution among survey-employees
 ![](imges/age_distribution.png)
 * Gender that is most likely seeking treatment.
