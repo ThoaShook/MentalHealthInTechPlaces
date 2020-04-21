@@ -76,7 +76,7 @@
     
     b) Model F1-Score Comparison
     
-    ![](images/F1ScoreComparison.png)
+    ![](images/ModelComparison_F1Score.png)
     
     c) Key-takeaways:
     
