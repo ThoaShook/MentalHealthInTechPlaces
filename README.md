@@ -72,7 +72,7 @@
 
     a) Model Accuracy Comparison
     
-    ![](images/AccuracyComparison.png)
+    ![](images/ModelComparasion_Accuracy.png)
     
     b) Model F1-Score Comparison
     
