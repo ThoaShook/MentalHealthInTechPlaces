@@ -1,19 +1,19 @@
 ### Mental Health In Tech Workplaces
-I. Problem Statment:
- Many risk factors are present in the workplace such as: 
-  - inadequate health and safety policies 
-  - low control over one's area of work 
-  - poor communication and management practices
-  - workload, inflexible working hours
-* Absenteeism and disability costs have increased in the workplace due to mental illness. 
-* Early identification and intervention of mental health issues will have significant impact on preventing underperformance, excessive absenteeism, and other related problems.
+##### I. Problem Statment:
+    Many risk factors are present in the workplace such as: 
+     - inadequate health and safety policies 
+     - low control over one's area of work 
+     - poor communication and management practices
+     - workload, inflexible working hours
+   * Absenteeism and disability costs have increased in the workplace due to mental illness. 
+   * Early identification and intervention of mental health issues will have significant impact on preventing underperformance, excessive absenteeism, and other related problems.
 
-II. Solution Proposal:
-  -Conduct a predictive analysis of data from pre-screening surveys
-  -Use four different models to determine key indicators of mental health issues in the technology workplace.
-  -Propose solutions to mitigate these concerns based on the results of research conclusions.
+##### II. Solution Proposal:
+    * Conduct a predictive analysis of data from pre-screening surveys
+    * Use four different models to determine key indicators of mental health issues in the technology workplace.
+    * Propose solutions to mitigate these concerns based on the results of research conclusions.
 
-III. The Process:
+##### III. The Process:
   - Selected data sources and cleaned data
   -Selected four models for analysis
     + Logistics Regression
@@ -31,10 +31,10 @@ III. The Process:
 
 * Key Takeaways:
  * This is a survey data from some Tech companies.
-  - A plot with 2 columns are associated with the answer yes or no
-  - A 3 columns distrubition are associated with yes, no, and maybe answers
-  - 4 columns: Never, sometime, most of the time, often
-  - 5 columns: No,somewhat easy, somewhat difficult, not at all , difficult
+     - A plot with 2 columns are associated with the answer yes or no
+     - A 3 columns distrubition are associated with yes, no, and maybe answers
+     - 4 columns: Never, sometime, most of the time, often
+     - 5 columns: No,somewhat easy, somewhat difficult, not at all , difficult
 
 * Upload Mental Health DataFrame:
 
@@ -54,12 +54,14 @@ III. The Process:
       + Available care options
       + Employee healthcare benefits
       + A leave plan to address family related mental health issues. 
- * Recommendations:
+
+* Recommendations:
     - Use the screening survey as an initial indicator of potential mental issue
     - The company should retains mental health professionals and counselors on its staff.
     - The company's healthcare benefits plan should  include
     - Provisions for extensive non-gender specific mental healthcare
     - Leave for employees and their family members without any age limitation.
+ 
  * Next Steps:
     - Discuss recommendations with primary insurance providers
     - Discuss recommendations with primary workforce representative
