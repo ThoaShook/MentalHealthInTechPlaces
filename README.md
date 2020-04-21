@@ -67,6 +67,23 @@
     b) Random Forest Model
     
     ![](images/RandomForest_OrderImportant.png)
+    
+5. Model Evaluation:
+
+    a) Model Accuracy Comparison
+    
+    ![](images/AccuracyComparison.png)
+    
+    b) Model F1-Score Comparison
+    
+    ![](images/F1ScoreComparison.png)
+    
+    c) Key-takeaways:
+    
+    * After careful assessment of the four different models on the macro level, the predictive ability of each is virtually equal. i.e.
+    * All four models are separated by no more than four percentage points.
+    * The predictive accuracy values for each model ranges from 67.46% for the Decision Tree to 71.4% for the Random GridSearchCV, to 73% for Logistic Regression, to 73.3% for the SVM. 
+    * The F1-score for the models are 68.7%, 73%, 73%, 72.3% respectively. On the micro level, the SVM model is more accurate than the other models.
 
 ##### IV. Conclusions:
   - Based on our models, the most important indicators for a mentally healthy and stable workforce are:
