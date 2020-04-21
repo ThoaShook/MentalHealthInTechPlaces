@@ -56,16 +56,26 @@
 * From our graph, we can infer that people that are likely having mental problem are in their late 20s or early 30s. New to job? Pressure from work? Relationship are unstable....
 
 4. Modeling:
+    * Apply machine learning to build model using decision trees, support vector machines, randomforest, and stasticaly modeling such as logistic regression
+    * Evaluate models using confusion matrix
+    * Compare confusion matrix between models to choose the best model for our data
+    
+    a) Decision Trees Model
+    
+    ![](images/ProbabilitySeekingTreatment.png)
+    
+    b) Random Forest Model
+    
+    ![](images/RandomForest_OrderImportant.png)
 
-
-* Conclusions:
+##### IV. Conclusions:
   - Based on our models, the most important indicators for a mentally healthy and stable workforce are:
       + Family history
       + Available care options
       + Employee healthcare benefits
       + A leave plan to address family related mental health issues. 
 
-* Recommendations:
+##### V. Recommendations:
     - Use the screening survey as an initial indicator of potential mental issue
     - The company should retains mental health professionals and counselors on its staff.
     - The company's healthcare benefits plan should  include
