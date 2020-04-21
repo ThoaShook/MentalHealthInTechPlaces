@@ -24,6 +24,7 @@ Early identification and intervention of mental health issues will have signific
 * Data Distribution, supporting details of four models using in analysis can be found in project5.ipynb
 
 ![](Images/FeaturesDistributions.png)
+
 ![](Images/FeatureDistribution2.png)
 
 * Key Takeaways:
