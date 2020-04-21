@@ -49,11 +49,14 @@
     * Leave vs mental mental and physical: Coeff = 0.31
     * Remote work vs self employed: Coeff = 0.32
 
-* Age distribution among survey-employees
+3. Age distribution among survey-employees
 
 ![](images/age_distribution.png)
 
-* Gender that is most likely seeking treatment is female and that is understandable
+* From our graph, we can infer that people that are likely having mental problem are in their late 20s or early 30s. New to job? Pressure from work? Relationship are unstable....
+
+4. Modeling:
+
 
 * Conclusions:
   - Based on our models, the most important indicators for a mentally healthy and stable workforce are:
