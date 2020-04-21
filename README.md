@@ -99,7 +99,7 @@
     - Provisions for extensive non-gender specific mental healthcare
     - Leave for employees and their family members without any age limitation.
  
- * Next Steps:
+##### Next Steps:
     - Discuss recommendations with primary insurance providers
     - Discuss recommendations with primary workforce representative
     - Discuss an implementation plan and timeline with HR
