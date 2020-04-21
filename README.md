@@ -1,17 +1,19 @@
-# Mental Health In Tech Workplaces
-* Problem Statment:
+### Mental Health In Tech Workplaces
+I. Problem Statment:
  Many risk factors are present in the workplace such as: 
   - inadequate health and safety policies 
   - low control over one's area of work 
   - poor communication and management practices
   - workload, inflexible working hours
-Absenteeism and disability costs have increased in the workplace due to mental illness. 
-Early identification and intervention of mental health issues will have significant impact on preventing underperformance, excessive absenteeism, and other related problems.
-* Solution Proposal:
+* Absenteeism and disability costs have increased in the workplace due to mental illness. 
+* Early identification and intervention of mental health issues will have significant impact on preventing underperformance, excessive absenteeism, and other related problems.
+
+II. Solution Proposal:
   -Conduct a predictive analysis of data from pre-screening surveys
   -Use four different models to determine key indicators of mental health issues in the technology workplace.
   -Propose solutions to mitigate these concerns based on the results of research conclusions.
-* The Process:
+
+III. The Process:
   - Selected data sources and cleaned data
   -Selected four models for analysis
     + Logistics Regression
@@ -21,7 +23,7 @@ Early identification and intervention of mental health issues will have signific
   - Determined and selected the model with the best results
   - Analyzed results for primary indicators
   - Developed conclusions and recommendations
-* Data Distribution, supporting details of four models using in analysis can be found in project5.ipynb
+1. Data Distribution:
 
 ![](images/FeaturesDistributions.png)
 
