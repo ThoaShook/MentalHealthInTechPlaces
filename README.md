@@ -36,11 +36,18 @@
      - 4 columns: Never, sometime, most of the time, often
      - 5 columns: No,somewhat easy, somewhat difficult, not at all , difficult
 
-* Upload Mental Health DataFrame:
-
-* Relationships between target variable - seeking treatment - vs independent variables
+2. Construct a heatmap/correlation matrix:
+    * A heatmap is a graphical representation of data where values are depicted by color. It also shows a correlation matrix depicting linear correlation coefficients between variables.
 
 ![](images/HeatMap.png)
+
+* Some notes from our correlation coefficients between independent variables:
+    * Coworkers vs supervisor: Coeff = 0.57
+    * Wellness program vs Seek help: Coeff = 0.47
+    * Benefits vs Care-option: Coeff = 0.44
+    * Family history vs treatment: Coeff = 0.38
+    * Leave vs mental mental and physical: Coeff = 0.31
+    * Remote work vs self employed: Coeff = 0.32
 
 * Age distribution among survey-employees
 
