@@ -22,6 +22,17 @@ Early identification and intervention of mental health issues will have signific
   - Analyzed results for primary indicators
   - Developed conclusions and recommendations
 * Data Distribution, supporting details of four models using in analysis can be found in project5.ipynb
+
+![](Images/FeaturesDistributions.png)
+![](Images/FeatureDistribution2.png)
+
+* Key Takeaways:
+ * This is a survey data from some Tech companies.
+  - A plot with 2 columns are associated with the answer yes or no
+  - A 3 columns distrubition are associated with yes, no, and maybe answers
+  - 4 columns: Never, sometime, most of the time, often
+  - 5 columns: No,somewhat easy, somewhat difficult, not at all , difficult
+
 * Upload Mental Health DataFrame:
 
 * Relationships between target variable - seeking treatment - vs independent variables
